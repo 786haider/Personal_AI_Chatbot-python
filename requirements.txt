@@ -1,0 +1,6 @@
+streamlit
+qrcode
+pandas
+numpy
+Pillow
+google-generativeai
