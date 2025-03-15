@@ -3,4 +3,4 @@ qrcode
 pandas
 numpy
 Pillow
-google-generativeai
+python-dotenv
