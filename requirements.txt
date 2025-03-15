@@ -6,6 +6,3 @@ Pillow
 python-dotenv
 google-generativeai
 gtts
-io
-pickle
-uuid
