@@ -6,3 +6,4 @@ Pillow
 python-dotenv
 google-generativeai
 gtts
+matplotlib.pyplot
